@@ -1,0 +1,8 @@
+{
+  "name": "CAREER SATHI - AI Career & Employability Intelligence Platform",
+  "description": "Next-generation career operating system and institutional employability management platform featuring unified candidate intelligence, role fit analysis, resume optimizer, and mock interview simulator.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
